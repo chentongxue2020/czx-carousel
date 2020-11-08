@@ -22,7 +22,7 @@ import carousel from "../../components/czx-carousel/czx-carousel.vue"
 
 | 属性 | 类型 | 默认值 | 必需 | 说明 |
 | :----: | :----: | :----: | :----: | :----: |
-| imgArray | Array | 空 | 是 | 轮播图是轮播图片 |
+| imgArray | Array | 空 | 是 | 轮播图的使用轮播图片 |
 | width | String | 1000px | 是，如果未传，则使用默认值 | 轮播图的宽度，如：宽为1000，则width为1000px，需带上“px” |
 | height | String | 368px | 是，如果未传，则使用默认值  | 轮播图的高度，如：高为368，则height为368px，需带上“px” |
 | top | String | 84.5% | 是，如果未传，则使用默认值  | dot点的顶部距离轮播图顶部的距离所占的比例，如：所占的比例为84.5%，则top为84.5%，需带上“%” |
