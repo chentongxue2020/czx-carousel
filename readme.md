@@ -1,5 +1,9 @@
 # czx-carousel轮播图
 基于uniapp开发的通用组件
+# 下载地址
+- [dcloud插件市场：https://ext.dcloud.net.cn/plugin?id=3393](https://ext.dcloud.net.cn/plugin?id=3393)
+
+- [github地址：https://github.com/chentongxue2020/czx-carousel.git](https://github.com/chentongxue2020/czx-carousel.git)
 # 使用方式
 在 script 中引用组件
 ```
