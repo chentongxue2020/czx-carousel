@@ -3,7 +3,7 @@
 # 使用方式
 在 script 中引用组件
 ```
-import carousel from "../../componemts/czx-carousel/czx-carousel.vue"
+import carousel from "../../components/czx-carousel/czx-carousel.vue"
 	export default {
 		components: {
 			carousel
@@ -34,7 +34,7 @@ import carousel from "../../componemts/czx-carousel/czx-carousel.vue"
 </template>
 
 <script>
-	import carousel from "../../componemts/czx-carousel/czx-carousel.vue" //引入
+	import carousel from "../../components/czx-carousel/czx-carousel.vue" //引入
 	export default {
 		components: {
 			carousel  //注册

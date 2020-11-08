@@ -5,7 +5,7 @@
 </template>
 
 <script>
-	import carousel from "../../componemts/czx-carousel/czx-carousel.vue"
+	import carousel from "../../components/czx-carousel/czx-carousel.vue"
 	export default {
 		components: {
 			carousel
