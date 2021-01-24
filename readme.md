@@ -1,4 +1,7 @@
 # czx-carousel轮播图
+
+2021年01月份改项目名称
+
 基于uniapp开发的通用组件
 # 下载地址
 - [dcloud插件市场：https://ext.dcloud.net.cn/plugin?id=3393](https://ext.dcloud.net.cn/plugin?id=3393)
