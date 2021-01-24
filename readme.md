@@ -1,4 +1,4 @@
-# czx-carousel轮播图
+# czx-carousel轮播图（czx-swiper）
 
 2021年01月份改项目名称：
 czx-swiper
